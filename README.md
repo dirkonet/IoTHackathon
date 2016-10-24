@@ -1,4 +1,6 @@
 # IoTHackathon
+<img style="float: right;" src="structure.png"/>
+
 Our winning solution to the October 2016 Microsoft Hack@Home Hackathon in Dresden. As the technology partner was ThyssenKrupp Elevators, the task was to combine elevators and IoT technology for predictive maintenance.
 
 ## The team
