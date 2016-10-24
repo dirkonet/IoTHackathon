@@ -1,4 +1,5 @@
 # IoTHackathon
+ <img align="right" src="structure.png" />
 Our winning solution to the October 2016 Microsoft Hack@Home Hackathon in Dresden. As the technology partner was ThyssenKrupp Elevators, the task was to combine elevators and IoT technology for predictive maintenance.
 
 ## The team
@@ -9,5 +10,3 @@ ThyssenKrupp already uses data like elevator cable runtime to predict maintenanc
 
 ## The code
 The project consists of three parts: The measuring device (a Raspberry Pi 2 with GrovePi sensors running Windows 10 IoT), the cloud data handling (IoT Hub, Database,…) and a smartphone app for the maintenance personell (Xamarin based).
-
-![Structure diagram](structure.png)
