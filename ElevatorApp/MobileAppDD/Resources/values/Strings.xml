@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Quality Elevator Data</string>
+  <string name="add_textbox_hint">Add a todo item</string>
+  <string name="add_button_text">Add</string>
+  <string name="mobile_services">Überblick</string>
+  <string name="mobile_services2">Aufzug 3 - Süd</string>
+  <string name="menu_refresh">Refresh</string>
+  <string name="checkbox_text">Item Text</string>
+</resources>
